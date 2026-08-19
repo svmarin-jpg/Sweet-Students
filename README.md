@@ -6,7 +6,7 @@ Una descripción breve y clara de qué hace este proyecto y cuál es su objetivo
 
 * **Lenguaje:** (ej. Python / JavaScript / C++ / Java)
 * **Librerías / Frameworks:** (ej. React, Pandas, Express, etc.)
-* **Herramientas:** (ej. VS Code, Git)
+* **Herramientas:** ej. VS Code, Git
 
 ## 📋 Requisitos previos
 
